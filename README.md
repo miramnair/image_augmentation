@@ -1,2 +1,2 @@
 # image_augmentation
-Augmenting Images using albumentations - yolo 
+Augmenting Images using albumentations - yolo labels.
